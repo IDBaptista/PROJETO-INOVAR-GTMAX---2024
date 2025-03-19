@@ -14,5 +14,5 @@ Empresa GTMAX3D
 > [GTMAX3D](https://www.gtmax3d.com.br/).
 
 Participações
-> [Maria Eduarda Gomes] (https://github.com/MariaGomesR).
+> Maria Eduarda Gomes (https://github.com/MariaGomesR).
 
