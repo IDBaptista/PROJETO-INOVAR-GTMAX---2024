@@ -8,7 +8,7 @@ Meu grupo foi composto por 5 pessoas e escolhemos a marca GTMAX 3D, uma empresa 
 Nós visualizamos o site da marca e desenvolvemos um modelo que tivesse como principal feito o marketing de uma das máquinas mais atualizadas desenvolvida pela marca, a **IMPRESSORA 3D PRO - CORE A3V3**. 
 Utilizando os recursos visuais, desenvolvemos uma identidade visual a marca, com cores que encontramos e achamos que marcariam a empresa de uma forma que se encaixasse com nosso protótipo, layouts e desenvolvimento.
 
-# CRÉDITOS E PARTICIPAÇÕES
+# CRÉDITOS, PARTICIPAÇÕES E LINKS
 
 Empresa GTMAX3D
 > [GTMAX3D](https://www.gtmax3d.com.br/)
@@ -18,3 +18,6 @@ Participações
 > [Mirele Victória](https://github.com/Mvictoria218) e
 > [Maria Eduarda Gomes](https://github.com/MariaGomesR)
 
+Links
+> [Protótipo](https://www.canva.com/design/DAGiLUKmFEM/o7x3IRumkhA1PhV0xnPmBw/edit?utm_content=DAGiLUKmFEM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+> [Site Renderizado](https://projeto-inovar-gtmax-2024.onrender.com)
