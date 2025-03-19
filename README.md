@@ -21,3 +21,5 @@ Participações
 Links
 > [Protótipo](https://www.canva.com/design/DAGiLUKmFEM/o7x3IRumkhA1PhV0xnPmBw/edit?utm_content=DAGiLUKmFEM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 > [Site Renderizado](https://projeto-inovar-gtmax-2024.onrender.com)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/assets/telainicial.png)
