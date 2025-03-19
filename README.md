@@ -20,6 +20,6 @@ Participações
 > [Maria Eduarda Gomes](https://github.com/MariaGomesR)  
 
 Links
-> [Protótipo](https://www.canva.com/design/DAGiLUKmFEM/o7x3IRumkhA1PhV0xnPmBw/edit?utm_content=DAGiLUKmFEM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+> [Protótipo](https://www.canva.com/design/DAGPQWK2Zbk/I_-vPurG-H4oyA2pTUXTOA/view?utm_content=DAGPQWK2Zbk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd6425ba067)  
 > [Site Renderizado](https://projeto-inovar-gtmax-2024.onrender.com)
 
