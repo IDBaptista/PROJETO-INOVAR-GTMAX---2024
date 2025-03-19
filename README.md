@@ -11,8 +11,8 @@ Utilizando os recursos visuais, desenvolvemos uma identidade visual a marca, com
 # CRÉDITOS E PARTICIPAÇÕES
 
 Empresa GTMAX3D
-> [GTMAX3D](https://www.gtmax3d.com.br/).
+> [GTMAX3D](https://www.gtmax3d.com.br/)
 
 Participações
-> Maria Eduarda Gomes (https://github.com/MariaGomesR).
+> [Maria Eduarda Gomes](https://github.com/MariaGomesR)
 
