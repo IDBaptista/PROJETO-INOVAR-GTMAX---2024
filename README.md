@@ -14,5 +14,7 @@ Empresa GTMAX3D
 > [GTMAX3D](https://www.gtmax3d.com.br/)
 
 Participações
+> [Lohany Macedo](https://github.com/Lohanyy17)
+> [Mirele Victória](https://github.com/Mvictoria218)
 > [Maria Eduarda Gomes](https://github.com/MariaGomesR)
 
