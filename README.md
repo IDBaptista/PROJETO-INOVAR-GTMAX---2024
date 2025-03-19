@@ -14,10 +14,10 @@ Empresa GTMAX3D
 > [GTMAX3D](https://www.gtmax3d.com.br/)
 
 Participações
-> [Lohany Macedo](https://github.com/Lohanyy17),
-> [Mirele Victória](https://github.com/Mvictoria218) e
-> [Maria Eduarda Gomes](https://github.com/MariaGomesR)
+> [Lohany Macedo](https://github.com/Lohanyy17)  
+> [Mirele Victória](https://github.com/Mvictoria218)  
+> [Maria Eduarda Gomes](https://github.com/MariaGomesR)  
 
 Links
-> [Protótipo](https://www.canva.com/design/DAGiLUKmFEM/o7x3IRumkhA1PhV0xnPmBw/edit?utm_content=DAGiLUKmFEM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+> [Protótipo](https://www.canva.com/design/DAGiLUKmFEM/o7x3IRumkhA1PhV0xnPmBw/edit?utm_content=DAGiLUKmFEM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 > [Site Renderizado](https://projeto-inovar-gtmax-2024.onrender.com)
