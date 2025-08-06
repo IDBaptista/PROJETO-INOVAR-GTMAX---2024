@@ -1,5 +1,5 @@
 # PROJETO INOVAR (GTMAX) -2024
-O Projeto INOVAR do curso Desenvolvimento de Sistemas (1° Sementre) foi uma prática nas linguagens HTML e CSS.
+O Projeto INOVAR do curso Desenvolvimento de Sistemas (1° Semestre) foi uma prática nas linguagens HTML e CSS.
 
 # FINALIDADE
 Desenvolver a partir dos conhecimentos e pesquisas sobre HTML e CSS uma nova identidade a uma marca já existente.
